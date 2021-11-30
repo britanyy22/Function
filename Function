@@ -1,0 +1,23 @@
+def greet():
+  print("Good afternoon")
+  print("How about some coffee?")
+  print("Britany")
+  
+def goodbye():
+  print("Good night!")
+  print("How about a night cap ?")
+  print("See you tomorrow")
+  
+greet()
+
+print("This is the camel game!")
+
+goodbye()
+
+print(4 + 2)
+print(4 + 4)
+
+add(9,8)
+add(4,2)
+add(4,4)
+  
